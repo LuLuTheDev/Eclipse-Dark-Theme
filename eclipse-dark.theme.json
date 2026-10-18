@@ -1,7 +1,7 @@
 {
   "spec": 2,
-  "name": "Eclipse Blue • Total Eclipse",
-  "description": "Midnight eclipse blues com glass surfaces profundas e uma corona dourada sutil nos destaques (menções, badges e botões).",
+  "name": "Eclipse Blue • Corona",
+  "description": "Azul-eclipse profundo com vidro translúcido, wallpaper original de eclipse total e corona dourada nos destaques.",
   "authors": [
     {
       "name": "@huginpetur",
@@ -10,91 +10,91 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#060d1bE6"
+      "#0c2350CC"
     ],
     "BACKGROUND_SECONDARY": [
-      "#040914E8"
+      "#08193aDD"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#061024E8"
+      "#0a1f46DD"
     ],
     "BACKGROUND_TERTIARY": [
-      "#02050eF4"
+      "#050f26EE"
     ],
     "BACKGROUND_ACCENT": [
-      "#1c3556"
+      "#2f64b4"
     ],
     "BACKGROUND_FLOATING": [
-      "#0a1631F7"
+      "#0f2a58F5"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0c1a38F7"
+      "#143466F5"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#060d1bE6"
+      "#0c2350D0"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#040914E8"
+      "#08193aE0"
     ],
     "CHAT_BACKGROUND": [
-      "#060d1bCC"
+      "#0c2350B8"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#8abfff10"
+      "#8abfff14"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#8abfff18"
+      "#8abfff1f"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#8abfff26"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
       "#8abfff30"
     ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#8abfff3a"
+    ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#8abfff20"
+      "#8abfff28"
     ],
     "CARD_PRIMARY_BG": [
-      "#071226"
+      "#0d2650E6"
     ],
     "CARD_SECONDARY_BG": [
-      "#0a1731"
+      "#102d5cE6"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#0b1a36"
+      "#12305fE6"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0b1a36"
+      "#12305fE6"
     ],
     "BG_BASE_PRIMARY": [
-      "#060d1bE6"
+      "#0c2350CC"
     ],
     "BG_BASE_SECONDARY": [
-      "#040914E8"
+      "#08193aDD"
     ],
     "BG_BASE_TERTIARY": [
-      "#02050eF4"
+      "#050f26EE"
     ],
     "BG_SURFACE_RAISED": [
-      "#0a1631F7"
+      "#0f2a58F5"
     ],
     "BG_SURFACE_OVERLAY": [
-      "#0a1631F7"
+      "#143466F5"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "#02050eF4"
+      "#040c20F0"
     ],
     "BACKGROUND_BASE_LOWER": [
-      "#040914F0"
+      "#06142eE8"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#060d1bE6"
+      "#0c2350D0"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#0c1b38"
+      "#143466"
     ],
     "BACKGROUND_SURFACE_HIGHEST": [
-      "#12284f"
+      "#1b427f"
     ],
     "TEXT_NORMAL": [
       "#edf6ff"
@@ -163,34 +163,34 @@
       "#ffcf8726"
     ],
     "KEYBOARD": [
-      "#060d1b"
+      "#0b2147"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#02050e"
+      "#04102a"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#12284f"
+      "#193c78"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2b4c7a"
+      "#3a66a8"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2b4c7a"
+      "#3a66a8"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#040914"
+      "#081a3a"
     ],
     "BORDER_FAINT": [
-      "#d7e9ff0a"
+      "#bcd9ff0e"
     ],
     "BORDER_SUBTLE": [
-      "#d7e9ff12"
+      "#bcd9ff16"
     ],
     "BORDER_NORMAL": [
-      "#d7e9ff1c"
+      "#bcd9ff22"
     ],
     "BORDER_STRONG": [
-      "#ffcf8730"
+      "#ffcf8744"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
       "#51dfa126"
@@ -244,10 +244,40 @@
       "#51dfa126"
     ],
     "BUTTON_SECONDARY_BACKGROUND": [
-      "#a9d8ff16"
+      "#8abfff22"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
+    ],
+    "MODAL_BACKGROUND": [
+      "#0d2652"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#091d42"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#12305f"
+    ],
+    "BG_MOD_FAINT": [
+      "#8abfff0f"
+    ],
+    "BG_MOD_SUBTLE": [
+      "#8abfff1a"
+    ],
+    "BG_MOD_STRONG": [
+      "#8abfff2e"
+    ],
+    "BG_BRAND": [
+      "#3d79d8"
+    ],
+    "FOCUS_PRIMARY": [
+      "#ffcf87"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#ffd9a0"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#ffd9a0"
     ]
   },
   "rawColors": {
@@ -261,43 +291,43 @@
     "PRIMARY_330": "#b0d2f2",
     "PRIMARY_345": "#9bb5d8",
     "PRIMARY_360": "#9bb5d8",
-    "PRIMARY_400": "#83a0ca",
-    "PRIMARY_430": "#627fae",
-    "PRIMARY_460": "#405d8d",
-    "PRIMARY_500": "#284774",
-    "PRIMARY_530": "#10254a",
-    "PRIMARY_560": "#0d1c39",
-    "PRIMARY_600": "#07101f",
-    "PRIMARY_630": "#050b18",
-    "PRIMARY_660": "#050b18",
-    "PRIMARY_700": "#030713",
-    "PRIMARY_730": "#030713",
-    "PRIMARY_760": "#030713",
-    "PRIMARY_800": "#0a1730",
-    "PRIMARY_830": "#030713",
-    "PRIMARY_860": "#030713",
-    "PRIMARY_900": "#02040b",
-    "BRAND_260": "#d7eaff",
-    "BRAND_300": "#c5e0fb",
-    "BRAND_330": "#b4d8f8",
-    "BRAND_345": "#acd3f5",
-    "BRAND_360": "#a3cef1",
-    "BRAND_400": "#91c2ec",
-    "BRAND_430": "#82b6e5",
-    "BRAND_460": "#74aadd",
-    "BRAND_500": "#679ed3",
-    "BRAND_530": "#5d91c5",
-    "BRAND_560": "#5485b7",
-    "BRAND_600": "#4978a7",
-    "BRAND_630": "#406b96",
-    "BRAND_660": "#385f86",
-    "BRAND_700": "#315477",
-    "BRAND_730": "#2b4968",
-    "BRAND_760": "#253e59",
-    "BRAND_800": "#1f344b",
-    "BRAND_830": "#192a3d",
-    "BRAND_860": "#142130",
-    "BRAND_900": "#0e1824",
+    "PRIMARY_400": "#86a8e0",
+    "PRIMARY_430": "#5f88cf",
+    "PRIMARY_460": "#3f6cb8",
+    "PRIMARY_500": "#2a4f8f",
+    "PRIMARY_530": "#193c78",
+    "PRIMARY_560": "#12305f",
+    "PRIMARY_600": "#0b2147",
+    "PRIMARY_630": "#081a3a",
+    "PRIMARY_660": "#081a3a",
+    "PRIMARY_700": "#061630",
+    "PRIMARY_730": "#051228",
+    "PRIMARY_760": "#051228",
+    "PRIMARY_800": "#0f2a57",
+    "PRIMARY_830": "#04102a",
+    "PRIMARY_860": "#04102a",
+    "PRIMARY_900": "#030b1c",
+    "BRAND_260": "#d6e8ff",
+    "BRAND_300": "#b5d5ff",
+    "BRAND_330": "#98c2ff",
+    "BRAND_345": "#86b6fb",
+    "BRAND_360": "#74a9f7",
+    "BRAND_400": "#5b97f0",
+    "BRAND_430": "#4a88e6",
+    "BRAND_460": "#3d79d8",
+    "BRAND_500": "#3568c4",
+    "BRAND_530": "#2d5aae",
+    "BRAND_560": "#274f9b",
+    "BRAND_600": "#214488",
+    "BRAND_630": "#1c3a75",
+    "BRAND_660": "#173162",
+    "BRAND_700": "#13294f",
+    "BRAND_730": "#0f213f",
+    "BRAND_760": "#0c1a33",
+    "BRAND_800": "#09142a",
+    "BRAND_830": "#070f20",
+    "BRAND_860": "#050a17",
+    "BRAND_900": "#03060f",
     "RED_260": "#ffb1c0",
     "RED_300": "#ff8fa5",
     "RED_330": "#ff7894",
@@ -382,30 +412,37 @@
     "ORANGE_830": "#291102",
     "ORANGE_860": "#1b0b01",
     "ORANGE_900": "#130801",
-    "BLUE_260": "#d7eaff",
-    "BLUE_300": "#c5e0fb",
-    "BLUE_330": "#b4d8f8",
-    "BLUE_345": "#acd3f5",
-    "BLUE_360": "#a3cef1",
-    "BLUE_400": "#91c2ec",
-    "BLUE_430": "#82b6e5",
-    "BLUE_460": "#74aadd",
-    "BLUE_500": "#679ed3",
-    "BLUE_530": "#5d91c5",
-    "BLUE_560": "#5485b7",
-    "BLUE_600": "#4978a7",
-    "BLUE_630": "#406b96",
-    "BLUE_660": "#385f86",
-    "BLUE_700": "#315477",
-    "BLUE_730": "#2b4968",
-    "BLUE_760": "#253e59",
-    "BLUE_800": "#1f344b",
-    "BLUE_830": "#192a3d",
-    "BLUE_860": "#142130",
-    "BLUE_900": "#0e1824"
+    "BLUE_260": "#d6e8ff",
+    "BLUE_300": "#b5d5ff",
+    "BLUE_330": "#98c2ff",
+    "BLUE_345": "#86b6fb",
+    "BLUE_360": "#74a9f7",
+    "BLUE_400": "#5b97f0",
+    "BLUE_430": "#4a88e6",
+    "BLUE_460": "#3d79d8",
+    "BLUE_500": "#3568c4",
+    "BLUE_530": "#2d5aae",
+    "BLUE_560": "#274f9b",
+    "BLUE_600": "#214488",
+    "BLUE_630": "#1c3a75",
+    "BLUE_660": "#173162",
+    "BLUE_700": "#13294f",
+    "BLUE_730": "#0f213f",
+    "BLUE_760": "#0c1a33",
+    "BLUE_800": "#09142a",
+    "BLUE_830": "#070f20",
+    "BLUE_860": "#050a17",
+    "BLUE_900": "#03060f"
   },
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#ffcf87",
     "mentionLineColor": "#ffcf87",
     "customOverlays": true
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/huginpetur/eclipse-blue/main/eclipse-wallpaper.png",
+    "blur": 10,
+    "alpha": 0.55
+  }
+}
