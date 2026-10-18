@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "name": "Eclipse Blue",
-  "description": "Deep eclipse blue with glowing azure light, glass buttons and a vertical eclipse wallpaper",
+  "description": "Deep eclipse blue with glowing azure light, glass UI and a soft blurred eclipse wallpaper",
   "authors": [
     {
       "name": "@huginpetur",
@@ -179,6 +179,18 @@
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#060e20"
+    ],
+    "BORDER_FAINT": [
+      "#ffffff0f"
+    ],
+    "BORDER_SUBTLE": [
+      "#ffffff14"
+    ],
+    "BORDER_NORMAL": [
+      "#ffffff1a"
+    ],
+    "BORDER_STRONG": [
+      "#ffffff29"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
       "#3ba55d33"
@@ -400,7 +412,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/LuLuTheDev/Eclipse-Dark-Theme/refs/heads/main/7%20Sem%20T%C3%ADtulo_20261018112417.png",
-    "blur": 0,
-    "alpha": 1
+    "blur": 16,
+    "alpha": 0.35
   }
-}
+      }
