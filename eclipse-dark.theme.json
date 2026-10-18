@@ -1,0 +1,103 @@
+{
+  "spec": 2,
+  "name": "Eclipse Dark",
+  "description": "Made with Eclipse++ Theme Studio",
+  "authors": [
+    {
+      "name": "Me",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#14131f"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0f0e18"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0f0e18"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0a0912"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1b1a2b"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1b1a2b"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#14131f"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0f0e18"
+    ],
+    "CHAT_BACKGROUND": [
+      "#14131f"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1e1d30"
+    ],
+    "TEXT_NORMAL": [
+      "#ece9ff"
+    ],
+    "TEXT_MUTED": [
+      "#9a96b8"
+    ],
+    "TEXT_LINK": [
+      "#a78bfa"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#9a96b8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#c9c4ee"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#8f8ab0"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8f8ab0"
+    ],
+    "MENTION_FOREGROUND": [
+      "#8b5cf6"
+    ],
+    "TEXT_POSITIVE": [
+      "#3ba55d"
+    ],
+    "TEXT_DANGER": [
+      "#ed4245"
+    ],
+    "TEXT_WARNING": [
+      "#faa61a"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#3ba55d"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#ed4245"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#faa61a"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#8b5cf6",
+    "BRAND_530": "#8b5cf6",
+    "BRAND_560": "#8b5cf6",
+    "BRAND_600": "#8b5cf6",
+    "PRIMARY_660": "#14131f",
+    "PRIMARY_700": "#0f0e18",
+    "PRIMARY_800": "#0a0912"
+  }
+}
