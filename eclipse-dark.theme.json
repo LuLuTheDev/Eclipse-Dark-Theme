@@ -1,8 +1,7 @@
 {
   "spec": 2,
   "name": "Eclipse Blue • Corona",
-  "description": "Deep eclipse blue, translucent glass, recolored icons, and golden corona highlights.",
-
+  "description": "Azul-eclipse profundo, vidro translúcido, ícones recoloridos e corona dourada nos destaques. Wallpaper original de eclipse total.",
   "authors": [
     {
       "name": "@huginpetur",
@@ -813,4 +812,40 @@
       "MagnifyingGlassIcon": "#b4d8f8",
       "member_list_badge_16px": "#ffcf87",
       "Messages": "#a6bfe0",
-      "n
+      "nav_header_connect": "#ffcf87",
+      "pencil": "#8fd0ff",
+      "PencilIcon": "#8fd0ff",
+      "PhoneCallIcon": "#ff7e96",
+      "pipit": "#b4d8f8",
+      "ScreenIcon": "#8fd0ff",
+      "settings": "#ffcf87",
+      "SettingsIcon": "#ffcf87",
+      "search": "#b4d8f8",
+      "Search": "#b4d8f8",
+      "ShieldIcon": "#ffcf87",
+      "stack-nav-back": "#b4d8f8",
+      "stack-nav-close": "#ff7e96",
+      "star": "#ffcf87",
+      "StarOutlineIcon": "#ffcf87",
+      "trash": "#ff7e96",
+      "TrashIcon": "#ff7e96",
+      "TriangleExclamationPointIcon": "#ff7e96",
+      "ThreadIcon": "#8fd0ff",
+      "toast_copy_link": "#8fd0ff",
+      "toast_copy_message": "#8fd0ff",
+      "toast_image_saved": "#b4d8f8",
+      "WrenchIcon": "#74a9f7",
+      "StatusOnline": "#51dfa1",
+      "StatusMobileOnline": "#51dfa1",
+      "StatusIdle": "#ffc76a",
+      "StatusDND": "#ff6b83",
+      "StatusOffline": "#6f8fc0",
+      "StatusStreaming": "#a58cff"
+    }
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/LuLuTheDev/Eclipse-Dark-Theme/refs/heads/main/8%20Sem%20T%C3%ADtulo_20261018145123.png",
+    "blur": 14,
+    "alpha": 0.35
+  }
+}
